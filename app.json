@@ -1,12 +1,12 @@
 {
   "expo": {
     "name": "LAB7.2",
-    "slug": "LAB7.2",
+    "slug": "LAB72",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/quiz2.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/quiz.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
